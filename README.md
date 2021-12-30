@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=marizvi)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=marizvi.marizvi)
 <h1 align="center">Hi 👋, I'm Mohammad Amber Rizvi</h1>
 <h3 align="center">I love to learn new tech</h3>
 
