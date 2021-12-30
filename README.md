@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Amber Rizvi</h1>
-<h3 align="center">I love to learn new tech</h3>
+
 
 <!--
 **marizvi/marizvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
