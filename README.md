@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mrizvi471@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=marizvi&count_private=true&show_icons=true&hide=contribs&theme=light)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=marizvi&count_private=true&show_icons=true&hide=contribs&theme=dark)
 <br>
 <hr>
 <br>
