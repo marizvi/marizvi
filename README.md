@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on flutter and web apps
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning to build cross platform apps using flutter
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
