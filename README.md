@@ -7,9 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-<p align="left">
-<a href="https://linkedin.com/in/mohd amber rizvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd amber rizvi" height="30" width="40" /></a>
-</p>
+
 - 🔭 I’m currently working on flutter and web apps
 - 🌱 I’m currently learning to build cross platform apps using flutter
 <!-- - 👯 I’m looking to collaborate on ... -->
