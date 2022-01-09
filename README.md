@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
   
   <p align="center">
-  <img src = "https://activity-graph.herokuapp.com/graph?username=marizvi&theme=react-dark&hide_border=true&area=true" width = 800>
+  <img src = "https://activity-graph.herokuapp.com/graph?username=marizvi&theme=redical&hide_border=true&area=true" width = 800>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=marizvi&theme=dark&hide_border=true" width = 400>
   
  </p>
