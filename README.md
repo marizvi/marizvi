@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=marizi&color=red)
 <h1 align="center">Hi 👋, I'm Mohammad Amber Rizvi</h1>
 
 
