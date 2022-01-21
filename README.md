@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me about development using Flutter -->
 - 📫 How to reach me: mrizvi471@gmail.com
 <!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
+- ⚡ Fun fact: It costs $0.0 to be a descent human being
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=marizvi&count_private=true&show_icons=true&hide=contribs&theme=radical)
 <br>
 <hr>
