@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on flutter and web apps
-- 🌱 I’m currently learning to build cross platform apps using flutter
+- 🌱 I’m currently exploring the field of data science using pyhton.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
+<!-- - 💬 Ask me about development using Flutter -->
 - 📫 How to reach me: mrizvi471@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
