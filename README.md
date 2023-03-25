@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marizvi&layout=compact&hide=html&theme=radical)
 
-<h2> Production Ready Projects
+<!-- <h2> Production Ready Projects
  <p align="left">zenik:
 <img src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/fr_get.svg" width="20%">
-</p> 
+</p>  -->
 <h2> Languages And Tools 
 <!--   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 12px>  -->
 </h2>
