@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me about development using Flutter -->
 - 📫 How to reach me: mrizvi471@gmail.com
 <!-- - 😄 Pronouns: ... -->
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=marizvi&count_private=true&show_icons=true&hide=contribs&theme=radical)
+<!-- ![Overall Stats](https://github-readme-stats.vercel.app/api?username=marizvi&count_private=true&show_icons=true&hide=contribs&theme=radical)-->
 <br>
 <hr>
 <br>
