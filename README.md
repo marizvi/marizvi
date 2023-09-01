@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently learning data science using python.
 - 🌱 I’m currently building production ready projects using flutter.
-- ⚡ Fun fact: It costs $0.0 to be a descent human being
+- ⚡ Fun fact: It costs $0.0 to be a decent human being
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about development using Flutter -->
